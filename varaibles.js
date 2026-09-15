@@ -1,0 +1,15 @@
+"use strict";
+//variable is a named container used to store data in memory. we can use variable to store data and we can use that data later in our program. we can change the value of variable at any time. we can use variable to store different types of data like number, string, boolean, array, object etc. we can use variable to store the result of an expression or a function call. we can use variable to store the value of another variable. we can use variable to store the value of a constant. we can use variable to store the value of a global variable. we can use variable to store the value of a local variable. we can use variable to store the value of a parameter. we can use variable to store the value of a return value. we can use variable to store the value of a property. we can use variable to store the value of a method. we can use variable to store the value of a class. we can use variable to store the value of an interface. we can use variable to store the value of an enum. we can use variable to store the value of a type alias. we can use variable to store the value of a namespace. we can use variable to store the value of a module. we can use variable to store the value of a decorator. we can use variable to store the value of a generic type parameter.
+//var studentName = "John Doe"; // string variable
+var stuedentname = "John Doe"; // string variable
+var studentAge = 20;
+let ispassed = true;
+console.log("Student Name: " + stuedentname);
+console.log("Student Age: " + studentAge);
+console.log("Is Passed: " + ispassed);
+//datatypes type defines the type of data that a variable can hold. we can use datatypes to define the type of data that a variable can hold. we can use datatypes to define the type of data that a function can return. we can use datatypes to define the type of data that a function can accept as parameters. we can use datatypes to define the type of data that a class can have as properties. we can use datatypes to define the type of data that a class can have as methods. we can use datatypes to define the type of data that an interface can have as properties. we can use datatypes to define the type of data that an interface can have as methods. we can use datatypes to define the type of data that an enum can have as members. we can use datatypes to define the type of data that a type alias can have as members. we can use datatypes to define the type of data that a namespace can have as members. we can use datatypes to define the type of data that a module can have as members. we can use datatypes to define the type of data that a decorator can have as members. we can use datatypes to define the type of data that a generic type parameter can have as members.
+//string,Number,Boolean,Any,Unknown,void,Null,undefined
+let studentGrade = "A";
+let studentId = 12345;
+console.log("Student Grade: " + studentGrade);
+console.log("Student ID: " + studentId);
